@@ -2,7 +2,7 @@
 AI Gaea Network BOT
 
 - Register Here : [AI Gaea Network](https://app.aigaea.net/register?ref=gaMHbVjrcOnGUL)
-- Use Code: gaj5yIoPw8Osap
+- Use Code: gaMHbVjrcOnGUL
 - Download Extension
 
 ## Features
